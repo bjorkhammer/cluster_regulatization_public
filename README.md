@@ -9,3 +9,8 @@ This ia an example basin hopping run where we alternate between cluster distance
 This is the mutation, copy it to your ase/ase/ga folder.
 
 ### code/featuregen.py
+Convert ASE trajectory files to feature files.
+
+### code/dist_energy_coor_histL2.py
+Plot the cluster distance vs. energy correlation. 
+Input are number of clusters, the trajectory file and the feature file.
