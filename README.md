@@ -16,5 +16,5 @@ Plot the cluster distance vs. energy correlation.
 Arguments are number of clusters, the trajectory file and the feature file.
 
 ### code/fscatter.py
-Plot scatter plot with hisograms for systems with 2 atomic types.
+Make feature plot with hisograms for systems with 2 atomic types.
 Argumens are the trajectory file and the feature file.
