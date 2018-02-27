@@ -13,4 +13,8 @@ Convert ASE trajectory files to feature files.
 
 ### code/dist_energy_coor_histL2.py
 Plot the cluster distance vs. energy correlation. 
-Input are number of clusters, the trajectory file and the feature file.
+Arguments are number of clusters, the trajectory file and the feature file.
+
+### code/fscatter.py
+Plot scatter plot with hisograms for systems with 2 atomic types.
+Argumens are the trajectory file and the feature file.
