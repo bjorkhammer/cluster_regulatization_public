@@ -14,7 +14,7 @@ if len(sys.argv)!=3:
     print 'Call like',sys.argv[0],'<trajectory file> <feature file>'
     sys.exit(0)
 
-system=sys.argv[1].split('/')[-1][0:-4];
+system=sys.argv[1].split('/')[-1][0:-5];
 
 feature_matrix = np.load(sys.argv[2])
 
